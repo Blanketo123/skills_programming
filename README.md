@@ -6,8 +6,8 @@ This project is a comprehensive analytics platform designed to process and visua
 
 ### Key Features
 - **Interactive Visualizations**: Provides rich visualizations for trends and performance.
-- **Model**: Various models were utilized, ranging from Linear Regression to Random Forest, to analyze and predict football match results and league data.
-- **Web Application**: A Streamlit-based web app for interactive user experiences.
+- **Model**: Various models were utilized, ranging from Linear Regression to Random Forest, to analyze and predict football match results and league data. These models were implemented using knowledge acquired from the Machine Learning course 6,126,1.00 and additional tutorials from YouTube. For example, the channel StatQuest with Josh Starmer was particularly helpful for understanding and implementing key machine learning concepts.
+- **Web Application**: A Streamlit-based web app for interactive user experiences, building on the foundational knowledge acquired in the 4.125, 1.00 Fundamentals of Computer Science course. The concepts and skills from the course were utilized and further developed to create this interactive application.
 
 ## Files
 - **Model Folder**: This folder includes the exploratory analysis and the scripts used to train the model based on the data.
