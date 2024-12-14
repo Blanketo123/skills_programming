@@ -1,5 +1,5 @@
 
-# Business_Analytics_CP
+# Skills: Programming - Introduction Level
 
 ## Description
 This project is a comprehensive analytics platform designed to process and visualize football league data. It integrates a Jupyter Notebook for interactive analysis and a Python script for deploying an interactive web application.
