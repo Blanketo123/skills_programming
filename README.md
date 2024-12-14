@@ -40,6 +40,8 @@ pip install -r requirements.txt
    ```
 3. Or just open https://skillsprogramming-cvt8mis9yw6qbnresnkxqx.streamlit.app
 
+Note: Ensure the Streamlit website is set to "Light" mode under the settings menu for the best experience. You can find this option in the top-right corner of the Streamlit app.
+
 ### Using the Jupyter Notebook
 1. Open the notebook file "model.ipynb" in Jupyter Notebook or JupyterLab.
 2. Execute cells interactively to explore data.
