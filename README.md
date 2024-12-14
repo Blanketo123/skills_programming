@@ -12,7 +12,7 @@ This project is a comprehensive analytics platform designed to process and visua
 ## Files
 - **Data Folder**: This folder contains scripts for data preprocessing, gathering, and web scraping to obtain the relevant data for our model.
 - **Model Folder**: This folder includes the exploratory analysis and the scripts used to train the model based on the collected data.
-- **Website Folder**: This folder holds the code for the final website, which integrates the model with user inputs to predict stadium attendance. It serves as the final interface and the culmination of our work. The Python script in this folder powers an interactive web application, accessible at: https://businessanalytics-c5bqundnhifhyhmzobdngc.streamlit.app.
+- **Website Folder**: This folder holds the code for the final website, which integrates the model with user inputs to predict stadium attendance. It serves as the final interface and the culmination of our work. The Python script in this folder powers an interactive web application, accessible at: https://skillsprogramming-cvt8mis9yw6qbnresnkxqx.streamlit.app.
 
 ## Dependencies
 The following libraries are required for this project:
@@ -39,10 +39,10 @@ pip install -r requirements.txt
    ```bash
    streamlit run app_v4_final.py
    ```
-3. Or just open https://businessanalytics-c5bqundnhifhyhmzobdngc.streamlit.app
+3. Or just open https://skillsprogramming-cvt8mis9yw6qbnresnkxqx.streamlit.app
 
 ### Using the Jupyter Notebook
-1. Open the notebook file "main.ipynb" in Jupyter Notebook or JupyterLab.
+1. Open the notebook file "model.ipynb" in Jupyter Notebook or JupyterLab.
 2. Execute cells interactively to explore data.
 
 ## Dataset Details
@@ -58,7 +58,7 @@ The project uses football match results and league data, which are processed and
 ### IPYNB Files
 - `Web_Scraping.ipynb`: Scrapes data from websites for further use.
 - `Data_Cleaning.ipynb`: Cleans and preprocesses raw data for analysis.
-- `Group_project.ipynb`: Explores the data and trains models as the main part of the group project.
+- `model.ipynb`: Explores the data and trains models as the main part of the project.
 
 ### PY Files
 - `app_v4_final.py`: Implements the final version of the website application.
