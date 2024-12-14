@@ -1,5 +1,1 @@
-Website: https://businessanalytics-c5bqundnhifhyhmzobdngc.streamlit.app
-Download link for the voice-over PowerPoint (valid for 7 days): https://we.tl/t-D9CuDXEG5O
-GitHub Repository: https://github.com/TobiasBlankenagel/Business_Analytics_CP
-
-The zip file "final_app.zip" containing the PowerPoint, notebooks, and other relevant files is attached. Please download the video by 18 December 2024. If the link expires, contact tobias.blankenagel@student.unisg.ch. The video file was too large to upload.
+Website: https://skillsprogramming-cvt8mis9yw6qbnresnkxqx.streamlit.app
