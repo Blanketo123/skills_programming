@@ -11,7 +11,7 @@ This project is a comprehensive analytics platform designed to process and visua
 
 ## Files
 - **Model Folder**: This folder includes the exploratory analysis and the scripts used to train the model based on the data.
-- **Website Folder**: This folder holds the code for the final website, which integrates the model with user inputs to predict stadium attendance. It serves as the final interface and the culmination of our work. The Python script in this folder powers an interactive web application, accessible at: https://skillsprogramming-cvt8mis9yw6qbnresnkxqx.streamlit.app.
+- **Website Folder**: This folder holds the code for the final website, which integrates the model with user inputs to predict stadium attendance. It serves as the final interface and the culmination of our work. The Python script in this folder powers an interactive web application, accessible at: https://skillsprogramming-cvt8mis9yw6qbnresnkxqx.streamlit.app
 
 ## Dependencies
 The following libraries are required for this project:
