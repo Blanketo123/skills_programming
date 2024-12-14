@@ -18,8 +18,11 @@ def load_model(model_path):
         return pickle.load(file)
 
 # Load models
-model_with_weather = load_model("./finalized_model_with_weather.sav")
-model_without_weather = load_model("./finalized_model_without_weather.sav")
+current_dir = os.path.dirname(os.path.abspath(__file__))
+model_with_weather_path = os.path.join(current_dir, "finalized_model_with_weather.sav")
+model_without_weather_path = os.path.join(current_dir, "finalized_model_without_weather.sav")
+model_with_weather = load_model(model_with_weather_path)
+model_without_weather = load_model(model_without_weather_path)
 
 # Configure Streamlit page
 st.set_page_config(
