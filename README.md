@@ -60,3 +60,9 @@ Note: The data "football_results.csv" was originally sourced from Kaggle. Howeve
 
 ### PY Files
 - `app_v4_final.py`: Implements the final version of the website application.
+
+The application uses two models for predicting stadium attendance:
+
+finalized_model_with_weather.sav: This model is used when weather data is available. The weather data is retrieved using the API:
+https://api.open-meteo.com/v1/forecast?.
+finalized_model_without_weather.sav: This model is used when weather data cannot be retrieved (for dates beyond 15 days into the future, as the weather API provides forecasts for up to 15 days).
