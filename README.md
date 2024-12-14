@@ -10,7 +10,7 @@ This project is a comprehensive analytics platform designed to process and visua
 - **Web Application**: A Streamlit-based web app for interactive user experiences.
 
 ## Files
-- **Data Folder**: This folder contains scripts for data preprocessing, gathering, and web scraping to obtain the relevant data for our model.
+- **Data Folder**: This folder contains scripts for data preprocessing, gathering, and web scraping to obtain the relevant data for our model. This folder was executed on Google Colab, so it should be run there for replication.
 - **Model Folder**: This folder includes the exploratory analysis and the scripts used to train the model based on the collected data.
 - **Website Folder**: This folder holds the code for the final website, which integrates the model with user inputs to predict stadium attendance. It serves as the final interface and the culmination of our work. The Python script in this folder powers an interactive web application, accessible at: https://skillsprogramming-cvt8mis9yw6qbnresnkxqx.streamlit.app.
 

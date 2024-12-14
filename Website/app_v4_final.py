@@ -264,7 +264,7 @@ else:
 ################### Rankings and Team Data Processing ##############################
 
 # Load league data from a CSV file
-csv_path = os.path.join(current_dir, 'new_league_data.csv')
+csv_path = os.path.join(current_dir, 'league_table_combined.csv')
 league_data = pd.read_csv(csv_path)
 
 # Retrieve data for the selected home team
