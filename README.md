@@ -51,7 +51,7 @@ The project uses football match results and league data, which are processed and
 - `football_results.csv`: Contains historical match results.
 - `league_table_combined.csv`: Includes additional league data displayed interactively on the website. Contains example data just to demonstrate the layout and the functionality of the website.
 
-Note: The data was originally sourced from Kaggle. However, the specific dataset is no longer available on Kaggle. It was downloaded while it was still accessible.
+Note: The data "football_results.csv" was originally sourced from Kaggle. However, the specific dataset is no longer available on Kaggle. It was downloaded while it was still accessible.
 
 ### IPYNB Files
 - `model.ipynb`: Explores the data and trains models as the main part of the project.
